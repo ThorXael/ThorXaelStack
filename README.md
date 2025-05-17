@@ -7,8 +7,7 @@
 ## 📥 Installation
 
 1. **Download the latest version** from the [Releases Page](https://github.com/ThorXael/ThorXaelStack/releases).  
-2. Extract the files to a preferred location on your system.  
-3. Run `ThorXaelStack.exe` and begin customizing your Windows setup!
+2. Run `ThorXaelStack.exe` and begin customizing your Windows setup!
 
 ---
 
